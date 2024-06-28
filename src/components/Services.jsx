@@ -11,7 +11,7 @@ const Services = () => {
     </div>
     <div className='py-4 flex justify-center gap-4 flex-wrap'>
 
-      <div className='pt-5'>
+      <div className=' lg:pt-5'>
 
     <Cards/>
       </div>
@@ -21,7 +21,7 @@ const Services = () => {
     <MidCard/>
     </div>
 
-    <div className='py-5'>
+    <div className=' lg:pt-5'>
 
     <LastCard/>
     </div>
